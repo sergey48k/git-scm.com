@@ -75,6 +75,15 @@ change to a named branch, then send a pull request. If it is a big feature,
 you might want to [start an issue](https://github.com/git/git-scm.com/issues/new) first to make sure it's something that will
 be accepted. If it involves code, please also write tests for it.
 
+[![0](https://sourcerer.io/fame/pedrorijo91/git/git-scm.com/images/0)](https://sourcerer.io/fame/pedrorijo91/git/git-scm.com/links/0)
+[![1](https://sourcerer.io/fame/pedrorijo91/git/git-scm.com/images/1)](https://sourcerer.io/fame/pedrorijo91/git/git-scm.com/links/1)
+[![2](https://sourcerer.io/fame/pedrorijo91/git/git-scm.com/images/2)](https://sourcerer.io/fame/pedrorijo91/git/git-scm.com/links/2)
+[![3](https://sourcerer.io/fame/pedrorijo91/git/git-scm.com/images/3)](https://sourcerer.io/fame/pedrorijo91/git/git-scm.com/links/3)
+[![4](https://sourcerer.io/fame/pedrorijo91/git/git-scm.com/images/4)](https://sourcerer.io/fame/pedrorijo91/git/git-scm.com/links/4)
+[![5](https://sourcerer.io/fame/pedrorijo91/git/git-scm.com/images/5)](https://sourcerer.io/fame/pedrorijo91/git/git-scm.com/links/5)
+[![6](https://sourcerer.io/fame/pedrorijo91/git/git-scm.com/images/6)](https://sourcerer.io/fame/pedrorijo91/git/git-scm.com/links/6)
+[![7](https://sourcerer.io/fame/pedrorijo91/git/git-scm.com/images/7)](https://sourcerer.io/fame/pedrorijo91/git/git-scm.com/links/7)
+
 ## Adding new GUI
 
 The [list of GUI clients](https://git-scm.com/downloads/guis) has been constructed by the community for a long time. If you want to add another tool you'll need to follow a few steps:
